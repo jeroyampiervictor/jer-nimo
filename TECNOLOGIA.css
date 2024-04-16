@@ -1,0 +1,31 @@
+.trabajo{
+    width: 100;
+    height: 2000px;
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.sociales{
+    width: 100;
+    height: 500px;
+    background-color: blue;
+
+    font-size: 50px;
+    color: blanchedalmond;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ingles{
+    width: 100;
+    height: 500px;
+    background-color: rgb(222, 233, 16);
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.tecnologia{
+    width: 100;
+    height: 1000px;
+    background-color: rgb(11, 239, 30);
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
